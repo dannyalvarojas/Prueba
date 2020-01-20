@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>658120911640-819qda8hd9ecqh629fhfpeqaddhroev9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.658120911640-819qda8hd9ecqh629fhfpeqaddhroev9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOuNQ_uchwRxo_X1WSbNdlqhjtPjxPcxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>658120911640</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.intercorp.Desfio-Intercorp.Desafio</string>
+	<key>PROJECT_ID</key>
+	<string>desafio-12067</string>
+	<key>STORAGE_BUCKET</key>
+	<string>desafio-12067.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:658120911640:ios:e23363a7b91493c9148c6d</string>
+	<key>DATABASE_URL</key>
+	<string>https://desafio-12067.firebaseio.com/</string>
+</dict>
+</plist>
